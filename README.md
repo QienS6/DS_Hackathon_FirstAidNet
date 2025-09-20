@@ -5,6 +5,7 @@
   - Ouputs last latitude and longitude
     
 - Contains txt file for the test cases on health
-  - Heart Rate
-  - Respiratory Rate
-  - Oxygen Blood Level
+  - First number on file is number of test cases
+  - First number on row is heart rate
+  - Second number on row is respiratory rate
+  - Third number on row is oxygen blood level
